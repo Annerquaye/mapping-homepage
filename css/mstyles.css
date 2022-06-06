@@ -1,0 +1,90 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    /* background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 34%, #ffffff 99%); */
+    }
+
+.container {
+
+}
+
+.container p {
+    max-width: 50rem;
+    margin: auto;
+}
+.header {
+    max-width: 50rem;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+}
+
+#about {
+    max-width: 50rem;
+    margin: auto;
+}
+
+#assignments {
+        max-width: 50rem;
+        margin: auto;
+}
+
+#contact {
+    max-width: 50rem;
+    margin: auto;
+}
+
+#assignments {
+    max-width: 50rem;
+    margin: auto;
+}
+
+.section {
+    max-width: 50rem;
+    margin: auto;
+}
+
+.footer {
+    max-width: 50rem;
+    margin: 2 2 55;
+    text-align: center;
+    background-color: black;
+}
+
+hr {
+    max-width: 50rem;
+}
+img {
+    max-width: 8rem;
+    padding-right: 1rem;
+    height: auto;
+    padding-right: 1rem;
+}
+
+.footer p {
+    font-size: 15px;
+    color: white;
+    font-weight: 900;
+    padding-top: .3rem;
+    padding-bottom: .3rem;
+}
+
+a, a:visited {
+    text-decoration:aliceblue;
+    color: black;
+}
+
+a:hover {
+    color: hsla(0, 0%, 0%, 0.5);
+}
+/* a.no-underline {
+    text-decoration: none; */
+}
+.footer {
+    max-width: 50rem;
+    margin: 2rem auto; /* vertical margin and horizontal margin */
+    text-align: center;
+    border-top: solid 1px;
+    border-color: hsl(0, 0%, 50%);
+}
