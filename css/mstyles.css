@@ -31,6 +31,11 @@ h1 {
         margin: auto;
 }
 
+.h3 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+}
+
 #contact {
     max-width: 50rem;
     margin: auto;
@@ -71,21 +76,21 @@ img {
     padding-bottom: .3rem;
 }
 
-/* a, a:visited {
+a, a:visited {
     text-decoration:aliceblue;
-    color: black; */
+    /* color: black;  */
 }
 
 a:hover {
     color: hsla(0, 0%, 0%, 0.5);
 }
 /* a.no-underline {
-    text-decoration: none; */
+    text-decoration: none;
 }
 .footer {
     max-width: 50rem;
     margin: 2rem auto; /* vertical margin and horizontal margin */
-    text-align: center;
+    /* text-align: center;
     border-top: solid 1px;
     border-color: hsl(0, 0%, 50%);
-}
+} */
