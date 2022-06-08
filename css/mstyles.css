@@ -77,16 +77,18 @@ img {
 }
 
 a, a:visited {
-/*     text-decoration:aliceblue; */
-    /* color: black;  */
+    text-decoration:aliceblue;
+    color: black;
 }
 
 a:hover {
     color: hsla(0, 0%, 0%, 0.5);
 }
-/* a.no-underline {
+
+a.no-underline {
     text-decoration: none;
 }
+
 .footer {
     max-width: 50rem;
     margin: 2rem auto; /* vertical margin and horizontal margin */
